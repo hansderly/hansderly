@@ -7,7 +7,6 @@ I enjoy working with Typescript, React-Native, REST API, NodeJS with Express and
 
 - 🔭 I’m currently working on **Nupump**
 - 🌱 I’m currently learning **TypeScript**
-- Currently learning at **Microverse**
 
 
 <h3 align="left">Languages and Tools:</h3>
