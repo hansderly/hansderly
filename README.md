@@ -3,7 +3,6 @@
 I'm a developer who is passionate about creating technology to elevate people, and building some cool stuffs. <br>
 I enjoy working with Typescript, React-Native, REST API, NodeJS with Express and PostgreSQL.
 
-- 🔭 I’m currently working on **Nupump**
 - 🌱 I’m currently learning **TypeScript** && **Ruby**
 
 
