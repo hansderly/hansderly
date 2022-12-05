@@ -1,4 +1,4 @@
-### Hi 👋, I am Hans-Derly Rameau!
+### Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> , I am Hans-Derly Rameau!
 
 I'm a developer who is passionate about creating technology to elevate people, and building some cool stuffs. <br>
 I enjoy working with Typescript, React-Native, REST API, NodeJS with Express and PostgreSQL.
