@@ -6,7 +6,10 @@ I enjoy working with Typescript, React-Native, REST API, NodeJS with Express and
 - 🌱 I’m currently learning **TypeScript** && **Ruby**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- ![hansderly GitHub Stats](https://server.dooboo.io/github-stats/hansderly) -->
+
+
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -37,7 +40,7 @@ I enjoy working with Typescript, React-Native, REST API, NodeJS with Express and
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  </p>
+  </p> -->
 
 
 ### Connect with me:
