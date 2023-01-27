@@ -51,6 +51,9 @@ I enjoy working with Typescript, React-Native, REST API, NodeJS with Express and
   <a href="mailto:rameauhans@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/ansderly-rameau/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/_hansderly/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
