@@ -4,12 +4,7 @@
 >I'm a software engineer mainly interested in developing web-mobile-based products, writing high quality, maintainable and easy to use software. I specialize in helping startups and companies create reliable, easy-to-use, data-driven products<br>
 >I enjoy working with Typescript,React, React-Native, REST API, NodeJS with Express and PostgreSQL.
 
-
-- 🌱 I’m currently learning **TypeScript** && **Ruby**
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=hansderly&show_icons=true&theme=vue-dark&locale=en" alt="Dammy" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansderly&theme=vue-dark" alt="Ayo" /></p>
-
+📒 I’m currently learning **TypeScript** && **Ruby**
 
 ### Connect with me:
 <p>
