@@ -4,7 +4,7 @@
 >I'm a software engineer mainly interested in developing web-mobile-based products, writing high quality, maintainable and easy to use software. I specialize in helping startups and companies create reliable, easy-to-use, data-driven products<br>
 >I enjoy working with Typescript,React, React-Native, REST API, NodeJS with Express and PostgreSQL.
 
-📒 I’m currently learning **TypeScript** && **Ruby**
+📒 I’m currently learning **TypeScript** && **GraphQL**
 
 ### Connect with me:
 <p>
